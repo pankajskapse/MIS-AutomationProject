@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-05T00:05:35 IST" name="Default suite" finished-at="2024-06-05T00:05:44 IST" duration-ms="9015">
+  <suite started-at="2024-06-08T01:18:15 IST" name="Suite" finished-at="2024-06-08T01:18:25 IST" duration-ms="9942">
     <groups>
     </groups>
-    <test started-at="2024-06-05T00:05:35 IST" name="Default test" finished-at="2024-06-05T00:05:44 IST" duration-ms="9015">
-      <class name="IT0_Sprint_01.test_IT0_1_Login">
-        <test-method is-config="true" signature="openApplication()[pri:0, instance:IT0_Sprint_01.test_IT0_1_Login@2f4948e4]" started-at="2024-06-05T00:05:35 IST" name="openApplication" finished-at="2024-06-05T00:05:42 IST" duration-ms="7084" status="PASS">
+    <test started-at="2024-06-08T01:18:15 IST" name="Test" finished-at="2024-06-08T01:18:25 IST" duration-ms="9942">
+      <class name="SeleniumJava.DemoProject01.AppTest_LoginCredentials">
+        <test-method is-config="true" signature="openApplication()[pri:0, instance:SeleniumJava.DemoProject01.AppTest_LoginCredentials@13d73f29]" started-at="2024-06-08T01:18:15 IST" name="openApplication" finished-at="2024-06-08T01:18:23 IST" duration-ms="7558" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApplication -->
-        <test-method signature="LoginApplication()[pri:0, instance:IT0_Sprint_01.test_IT0_1_Login@2f4948e4]" started-at="2024-06-05T00:05:42 IST" name="LoginApplication" finished-at="2024-06-05T00:05:44 IST" duration-ms="1894" status="PASS">
+        <test-method signature="LoginApplication()[pri:0, instance:SeleniumJava.DemoProject01.AppTest_LoginCredentials@13d73f29]" started-at="2024-06-08T01:18:23 IST" name="LoginApplication" finished-at="2024-06-08T01:18:25 IST" duration-ms="2340" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginApplication -->
-      </class> <!-- IT0_Sprint_01.test_IT0_1_Login -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- SeleniumJava.DemoProject01.AppTest_LoginCredentials -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
